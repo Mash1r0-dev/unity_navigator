@@ -1,0 +1,3 @@
+[submodule "unity_navigator"]
+	path = unity_navigator
+	url = https://github.com/momokawaiii/unity_navigator
